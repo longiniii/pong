@@ -15,7 +15,7 @@ namespace pong
         public static char RightUpChar { get; private set; } = '┐';
         public static char LeftDownChar { get; private set; } = '└';
         public static char RightDownChar { get; private set; } = '┘';
-        public static int HorizontalLength { get; private set; } = 91;
+        public static int HorizontalLength { get; private set; } = 81;
         public static int VerticalLength { get; private set; } = 23;
 
         public static void DrawTable()
