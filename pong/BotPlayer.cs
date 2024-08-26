@@ -44,7 +44,7 @@ namespace pong
                         else break;
                     }
                 }
-                Thread.Sleep(30);
+                Thread.Sleep(40);
             }
         }
         public static void AddScore()
